@@ -17,3 +17,4 @@
 #### 11-Get in to html file and move the contents to /var/www/html - mv * /var/www/html
 #### 12- cd /var/www/html
 #### 13-copy the public ip and run on browser
+![img1.png](img1.png)
