@@ -4,7 +4,7 @@
 #### Recover lost ssh key and regain access to ec2 instances without downtime
 
 #### 1-Launch an Instance
-
+![img6.png](img6.png)
 #### 2-Access the instance using terminal ssh -i keypair ec2-user@IP address.Now the connection get established.
 
 #### 3-After that delete the private key from the local and again try to access the instance
