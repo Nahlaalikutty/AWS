@@ -2,7 +2,7 @@
 
 ### Topic : Port Number Changing
 
-#### How to host a website in EC2 Instance.
+#### How to change default port ssh 22 to a custom port
 
 #### 1-Launch an Instance
 ![img_1.png](img_1.png)
